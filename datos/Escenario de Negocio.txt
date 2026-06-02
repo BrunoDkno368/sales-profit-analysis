@@ -1,0 +1,8 @@
+Una empresa de retail quiere entender:
+
+	1 qué productos venden más
+	2 qué categorías generan más ganancias
+	3 qué regiones tienen pérdidas
+	4 qué clientes generan más revenue
+	5 qué meses tienen mejor rendimiento
+
